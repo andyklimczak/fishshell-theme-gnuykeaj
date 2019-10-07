@@ -4,3 +4,11 @@ Super minimal one line version of [clearance](https://github.com/oh-my-fish/them
 
 ![gnuykjeatheme](https://raw.githubusercontent.com/andyklimczak/oh-my-fish/gnuykeaj-screenshot/themes/gnuykeaj/gnuykeaj-preview.png)
 
+## Install
+
+#### Fisher
+
+```
+fisher add andyklimczak/fishshell-theme-gnuykeaj
+
+```
