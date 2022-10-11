@@ -8,7 +8,4 @@ Super minimal one line version of [clearance](https://github.com/oh-my-fish/them
 
 #### Fisher
 
-```
-fisher add andyklimczak/fishshell-theme-gnuykeaj
-
-```
+fisher install andyklimczak/fishshell-theme-gnuykeaj
